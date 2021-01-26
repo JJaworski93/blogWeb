@@ -1,0 +1,38 @@
+@import url('../css/fonts.css');
+
+/* main .site-title{
+    background: url('../img/sunset1.png') !important;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+} */
+
+.site-content .sidebar .newsletter {
+    padding-top: 1rem;
+}
+
+.site-content .sidebar .popular-tags {
+    padding-top: 1rem;
+}
+
+.post-body > a{
+    text-decoration: underline;
+    text-decoration-color: rgb(6, 85, 221);
+    text-decoration-style: solid;
+    font-size: 1.1rem !important;
+    font-family: var(--Lexend) !important;
+    
+}
+
+.flex-row > img{
+    padding: 0.5rem;
+}
+
+main .site-title{
+    height: 80vh;
+}
+
+.site-content .sidebar .newsletter{
+    padding-top: 0.1rem;
+}
